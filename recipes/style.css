@@ -1,0 +1,14 @@
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#photo {
+    height: auto;
+    width: 300px;
+}
+
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
